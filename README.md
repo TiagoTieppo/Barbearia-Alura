@@ -1,2 +1,1 @@
-# Barbearia-Alura
-trabalho
+Barbearia Alura
